@@ -1,11 +1,4 @@
-<<<<<<< HEAD
 pandas
 numpy
 scikit-learn
 jupyter
-=======
-pandas
-numpy
-scikit-learn
-jupyter
->>>>>>> b80797839648a8a7173edcabef51de0d8bf51a41
